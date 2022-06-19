@@ -61,11 +61,5 @@ public class woochiVillage : MonoBehaviour
 	    animator.SetInteger(animationsState, (int)States.down);
     }
 
-    // 게임씬 변경
-    void OnTriggerEnter2D(Collider2D other)
-    {
-	SceneManager.LoadScene("game1");
-    }
-
 }
 

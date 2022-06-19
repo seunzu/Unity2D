@@ -67,10 +67,5 @@ public class woochiGame : MonoBehaviour
 	
     }
 
-    // 게임씬 변경
-    void OnTriggerEnter2D(Collider2D other)
-    {
-	SceneManager.LoadScene("game2");
-    }
 
 }
