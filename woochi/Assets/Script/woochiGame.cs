@@ -31,12 +31,14 @@ public class woochiGame : MonoBehaviour
    void Update() 
    {
    	UpdateState();
+	/*Jump();
 
 	// 화면 밖 -> 처음부터
 	if (transform.position.y < -10)
 	    SceneManager.LoadScene("GameScene");*/
    }
 
+   
    private void FixedUpdate()
    {
 	MoveCharacter();
