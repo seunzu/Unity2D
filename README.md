@@ -7,8 +7,8 @@ Ver: 2020.3.30f1
 
 # 계획
 - 1주차: 5/30~6/5 - 게임 기획, 에셋 스토어 구매
-- 2주차: 6/6~6/12 - 게임 이름 정하기, Village1, 2 만들기
-- 3주차: 6/7~6/12
+- 2주차: 6/6~6/17 - 게임 이름 정하기, Village1, 2 만들기
+- 3주차: 6/8~6/12
 - 4주차: 6/13~6/19
 - 6/20 발표 << 영상
 
@@ -24,9 +24,6 @@ Ver: 2020.3.30f1
 2D Top Down Master Tile
 <p>https://assetstore.unity.com/packages/2d/environments/2d-top-down-master-tile-140929</p>
 
-Simple Heart Health System
-<p>https://assetstore.unity.com/packages/tools/gui/simple-heart-health-system-120676</p>
-
 ### 게임 
 고군분투, 닌텐도 슈퍼마리오, 드래곤 플라이트
 
@@ -37,17 +34,11 @@ Simple Heart Health System
 
 - 아이폰 메모장
 
-## Unity
-1. 게임 메뉴
-- 시작하기
-- 게임 설명(창 열고 닫기)
-
-2. 시작
+## Play
 - Village 당 게임 3개 => 총 6개
-- Village 1 게임 3개 모두 Clear -> Village 2 게임 3개 모두 Clear -> End
-- Village 당 생명 3개
-- Village 1 Clear -> Village 2 중 생명 다 닳으면 ->  다시하기 씬(Village 1 end 지점부터 다시 시작)
-- Village 1 게임 중 생명 다 닳으면 ->  다시하기 씬(처음부터 다시 시작)
+- Village 1 Clear -> Village 2 게임 Clear -> End
+- game2 우치가 화면 밖 벗어날 시 처음부터 다시 시작
+
 
 ### 화면
 1. 시작화면(StartScene)
