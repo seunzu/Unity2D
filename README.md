@@ -42,16 +42,11 @@ Ver: 2020.3.30f1
 
 ### 화면
 1. 시작화면(StartScene)
-2. 마을1(Village1Scene) > 승주
-3. 게임1-1(game1-1)
-4. 게임1-2(game1-2)
-5. 게임1-3(game1-3)
-6. 마을2(Village2Scene) > 호연
-7. 게임2-1(game2-1)
-8. 게임2-2(game2-2)
-9. 게임2-3(game2-3)
-10. 클리어(EndScene)
-11. 다시하기(TryAgainScene)
+2. 마을1(Village1Scene)
+3. 게임1-1(game1)
+4. 마을2(Village2Scene)
+5. 게임2(game2)
+6. 클리어(EndScene)
 
 
 
