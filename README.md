@@ -29,9 +29,6 @@ Ver: 2020.3.30f1
 
 ## 협업
 - 깃허브
-<p>https://velog.io/@nyanyanyong/유니티-GIT으로-협업하기</p>
-<p>https://brunch.co.kr/@uniher/30</p>
-
 - 아이폰 메모장
 
 ## Play
